@@ -1,4 +1,4 @@
----
+jonngbe: Simple Market 
 name: Simple Marketplace
 slug: simple-marketplace
 description: Simple Marketplace on MintBase
